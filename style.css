@@ -3,6 +3,12 @@ div {
   padding: 10px;
 }
 
+h1 {
+  font-family: Sans-serif;
+  color: #666666;
+}
+
+
 em {
-  font-color: #333333;
+  color: #333333;
 }
